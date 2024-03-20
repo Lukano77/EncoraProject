@@ -1,0 +1,26 @@
+[{
+  "TestCase": 1,
+  "Status": "Pass",
+  "ExecutionTime": "10",
+}, 
+{
+  "TestCase": 2,
+  "Status": "Pass",
+  "ExecutionTime": "15",
+}, 
+{
+  "TestCase": 3,
+  "Status": "Pass",
+  "ExecutionTime": "18",
+}, 
+{
+  "TestCase": 4,
+  "Status": "Fail",
+  "ExecutionTime": "15550",
+},
+{
+  "TestCase": 5,
+  "Status": "Fail",
+  "ExecutionTime": "15550",
+}
+]
